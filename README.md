@@ -140,10 +140,10 @@ def rightcylinder(request):
 
 
 ## SERVER SIDE PROCESSING:
-
+![git](9C5C5F5F-9B94-429E-8B87-7225435588C3_1_201_a.jpeg)
 
 ## HOMEPAGE:
-
+![alt text](B2FC1CC0-BCFE-4037-B538-38A5AE5AC4E6.jpeg)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
